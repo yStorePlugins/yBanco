@@ -2,6 +2,7 @@
 # O money do banco não é afetado
 Grupos:
  membro:
+  Ordem: 1
   Permissao: 'ybanco.membro'
   Porcentagem: 10.0
   Mensagem:
